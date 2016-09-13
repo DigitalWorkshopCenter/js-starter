@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Starter JavaScript Project using Babel, Webpack, and Gulp.",
   "scripts": {
-    "build": "./node_modules/.bin/gulp build --production",
-    "start": "./node_modules/.bin/gulp start"
+    "build": "gulp build --production",
+    "start": "gulp start"
   },
   "keywords": [
     "babel",
