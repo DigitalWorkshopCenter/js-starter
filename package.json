@@ -11,7 +11,7 @@
     "gulp",
     "webpack"
   ],
-  "author": "Daniel Walker",
+  "author": "Daniel Walker <plaxdan@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.0.14",
@@ -20,7 +20,9 @@
     "css-loader": "^0.21.0",
     "del": "^2.0.2",
     "gulp": "^3.9.0",
+    "gulp-open": "^2.0.0",
     "gulp-util": "^3.0.7",
+    "os": "^0.1.1",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.1"
